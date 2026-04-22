@@ -42,7 +42,7 @@ Display on the menu ```Phone Tracker```
 
 on this menu you can search for information from the target phone number
 
-Display on the menu ```Username Tracker```
+Display on the menu ```8360 9634Username Tracker```
 
 <img src="https://github.com/HunxByts/GhostTrack/blob/main/asset/User.png"/>
 on this menu you can search for information from the target username on social media
